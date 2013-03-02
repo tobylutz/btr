@@ -1,0 +1,35 @@
+————————————
+CACHE MANIFEST
+
+# Need to change contents of this page to let user know of updated content.
+# Version: 1.0, 4-2-2012
+
+CACHE:
+# files to be cached on the device go here.
+# Can also specify absolute URLs.
+alphac.js
+jquery.js
+jquery.mobile-1.3.0.min.css
+jquery.mobile-1.3.0.min.js
+jquery.mobile.theme-1.3.0.min.css
+md5.js
+timer.js
+images/apple-touch-icon-57×57.png
+images/apple-touch-icon-72×72.png
+images/apple-touch-icon-114×114.png
+images/startup.png
+images/ajax-loader.gif
+images/icons-18-black.png
+images/icons-18-white.png
+images/icons-36-black.png
+images/icons-36-white.png
+
+#about.html
+#new.html
+#glossary.html
+
+# FALLBACK:
+# if resource is inaccessible, then use this .html file to give notice.
+# if any folders before the / are inaccessible, then the file to the right is served.
+#/ offline.html
+
